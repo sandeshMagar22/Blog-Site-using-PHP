@@ -1,1 +1,1 @@
-This is just tried project of blog by using Js, HTML, Css and Jquery.
+:D
